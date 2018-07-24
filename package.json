@@ -1,0 +1,23 @@
+{
+  "name": "adonis-segment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "providers/Segment.js",
+  "dependencies": {
+    "analytics-node": "^3.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avonian/adonis-segment.git"
+  },
+  "author": "Ara Kevonian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avonian/adonis-segment/issues"
+  },
+  "homepage": "https://github.com/avonian/adonis-segment#readme"
+}

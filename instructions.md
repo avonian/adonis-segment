@@ -4,7 +4,7 @@ You must register the provider in `start/app.js`
 
 ```js
 const providers = [
-    'adonis-segment/Segment'
+    'adonis-segment/providers/Segment'
 ]
 ```
 

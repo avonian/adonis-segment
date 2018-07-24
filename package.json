@@ -1,6 +1,6 @@
 {
   "name": "adonis-segment",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "providers/Segment.js",
   "dependencies": {
